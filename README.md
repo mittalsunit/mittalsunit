@@ -9,6 +9,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mittalsunit&show_icons=true&theme=dark)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalsunit&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mittalsunit&theme=dark)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mittalsunit&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
