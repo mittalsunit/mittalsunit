@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Sunit Mittal!
-
 ### Glad to see you here!
 
 I am a passionate **Software Engineer** with a strong focus on problem-solving and innovation. I thrive on creating intuitive websites and software solutions that drive real impact, blending clean, efficient code with seamless user experiences.
-
 I am always on the lookout for new challenges that push my creativity and technical skills, as well as opportunities to contribute to meaningful projects. I believe in lifelong learning, constantly expanding my horizons in both technology and personal growth. Beyond coding, I’m an avid reader, runner, and explorer of new ideas and innovations.
+
+# 🌐 Connect with me:
+<a href="https://www.linkedin.com/in/sunitmittal" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunitmittal" height="30"/></a>
 
 # 💻 Tech Stack:
 <p>
@@ -19,11 +20,15 @@ I am always on the lookout for new challenges that push my creativity and techni
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="30"></a>&ensp;
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" height="30"></a>&ensp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="30"></a>&ensp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="30"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="30"></a>&ensp;
+    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&logo=figma&logoColor=white" height="30"></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=mittalsunit&label=Profile%20views&color=0e75b6" alt="mittalsunit" height="30"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mittalsunit&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="mittalsunit"/>
+
 # 📊 GitHub Stats:
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mittalsunit&show_icons=true&theme=dark" height="245"></a>&nbsp;
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittalsunit&layout=donut&theme=dark" height="245"></a><br>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mittalsunit&theme=dark" height="250" width="2500">
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mittalsunit&show_icons=true&theme=dracula" height="245"></a>&nbsp;
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittalsunit&layout=donut&theme=dracula" height="245"></a><br>
+<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mittalsunit&theme=dracula" height="250" width="2500">
