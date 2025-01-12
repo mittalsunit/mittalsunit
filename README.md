@@ -31,4 +31,3 @@ I am always on the lookout for new challenges that push my creativity and techni
 # 📊 GitHub Stats:
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mittalsunit&show_icons=true&theme=dracula" height="245"></a>&nbsp;
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittalsunit&layout=donut&theme=dracula" height="245"></a><br>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mittalsunit&theme=dracula" height="250" width="2500">
